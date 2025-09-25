@@ -7,11 +7,16 @@ assignees: ''
 
 ---
 
-**As a** [role]
-**I need** [function]
-**So that** [benefit]
+**Como** [rol]
+**Necesito** [función]
+**Para que** [beneficio]
 
-### Details and Assumptions:
-* [document what you know]
+### Detalles y Suposiciones:
+* [documenta lo que sabes]
 
-### Acceptance Criteria:
+### Criterios de Aceptación:
+```gherkin
+Dado [algún contexto]
+Cuando [se realiza cierta acción]
+Entonces [se observa el resultado de la acción]
+```
